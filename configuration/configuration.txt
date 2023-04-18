@@ -15,7 +15,7 @@ Landing page template: Landing Page Template
 ;; --------------------
 
 Separator:  · 
-Navigation: [home](/), archive
+Navigation: <a href="https://timapple.weblog.lol/">Home</a>, [About](https://timapple.weblog.lol/about) 
 Files path: /files/
 Landing page post count: 1
 // Landing page post length: 45 words
